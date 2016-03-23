@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="RedisWebServices.Host/RedisWebServices.Host.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RedisWebServices.Host/AppHost.cs">
+    <Files>
+      <File FileName="RedisWebServices.Host/AppHost.cs" Line="22" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
